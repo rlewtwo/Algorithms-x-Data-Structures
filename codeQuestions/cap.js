@@ -3,7 +3,7 @@
 // capitalize the first letter of each word in the string then
 // return the capitalized string.
 // --- Examples
-console.log(capitalize('a short sentence'))
+
 //   capitalize('a lazy fox') --> 'A Lazy Fox'
 //   capitalize('look, it is working!') --> 'Look, It Is Working!'
 
