@@ -12,7 +12,7 @@
 
 class Stack {
   constructor() {
-    this.data = [];
+    // this.data = [];
   }
 
   add(item) {
