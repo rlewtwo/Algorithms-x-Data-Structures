@@ -4,8 +4,8 @@
 ## Workflow Guide
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Problems        |   Link                                                  | Completed     | Questions on Problem  |
+| ----------------|:-------------------------------------------------------:| -------------:| ---------------------:|
+|Jewels and stones     | https://leetcode.com/problems/jewels-and-stones/        | YES      | none                  |
+|Unique email addresses| https://leetcode.com/problems/unique-email-addresses/   | YES      | none                  |
+
